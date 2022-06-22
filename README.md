@@ -5,5 +5,6 @@
 
 для запуска виртуального окружения 
 <p> pipenv shell </p>
+
 для запуска сервера
-python manage.py runserver
+<p> python manage.py runserver</p>
